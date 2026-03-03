@@ -1,7 +1,13 @@
-_site/
+.bundle/
 .sass-cache/
+
+#Gemfile
+vendor/bundle
+vendor/cache
+
+#Jekyll
+_site/
 .jekyll-cache/
 .jekyll-metadata
+# ignore Gemfile.lock because Github pages uses it's own pre-defined environment
 Gemfile.lock
-.bundle/
-vendor/
