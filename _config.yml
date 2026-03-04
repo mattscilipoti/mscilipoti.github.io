@@ -1,0 +1,24 @@
+title: Matt Scilipoti
+description: Personal site and notes
+author: Matt Scilipoti
+email: matt@scilipoti.com
+
+theme: minima
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+# Collections
+collections:
+  notes:
+    output: true
+    permalink: /notes/:name/
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .bundle/
+  - vendor/
