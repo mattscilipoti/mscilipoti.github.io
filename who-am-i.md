@@ -6,18 +6,7 @@ permalink: /who-am-i/
 
 # Who Am I?
 
-<center>I’m Matt Scilipoti</center>
-<br/>
-
-<center>agilest • coach • coder</center>
-<center>craftsman • enabler • entrepreneur</center>
-<center>entropy wrangler • evangelist • family member</center>
-<center>itch scratcher • mac user • mentor</center>
-<center>people person • presenter • researcher</center>
-<center>rubyist • student • system admin</center>
-<center>teammate • team lead • tester</center>
-<center>trainer • system admin • web developer</center>
-<br/>
+I'm Matt Scilipoti
 
 I code. 
 
@@ -27,23 +16,40 @@ I am a solid Developer, a [Software Craftsman](http://manifesto.softwarecraftsma
 I strive to explain the intent of my code, to developers that follow.     
 I am comfortable with, and encourage, [DevOps](http://12factor.net/).
 
-I test. First. 
-
-I am agile and pragmatic.    
-I add to production capacity, for everyone.
-
-I can do it alone, but you really want me as a member of a team.     
-I excel in a team, gaining energy from working with others.    
-I tend to work harder for those around me, than I do for myself.    
-I fight to turn isolation into powerful collaboration.
-
 I love this stuff.
 
 <div style="text-align: center;">
+  <h2>My Hats</h2>
+
+  <center>agilest • coach • coder</center>
+  <center>craftsman • enabler • entrepreneur</center>
+  <center>entropy wrangler • evangelist • family member</center>
+  <center>itch scratcher • mac user • mentor</center>
+  <center>people person • presenter • researcher</center>
+  <center>rubyist • student • system admin</center>
+  <center>teammate • team lead • tester</center>
+  <center>trainer • system admin • web developer</center>
+</div>
+<br/>
+
+
+I test. First.     
+I am agile and pragmatic.    
+I add to production capacity, for everyone.
+
+I am a perfectly, imperfect human.     
+I can do it alone, but you really want me as a member of a team.     
+I excel in a team, gaining energy from working with others.    
+I tend to work harder for those around me, than I do for myself.    
+I fight to turn isolation into powerful collaboration.    
+I vow to support my team, if they will let me.     
+I hope they return that kindness. 
+
+<br/>
+<div style="text-align: center;">
   <h2>My Toolbelt</h2>
-  <p>Tools, technologies, and practices I rely on to get the job done.</p>
-  <center>agile methodologies • angular • chef</center>
-  <center>css • cucumber • DevSecOps • docker</center>
+  <center>agile methodologies • chef • css</center>
+  <center>cucumber • DevSecOps • docker</center>
   <center>full-text search • git • html</center>
   <center>javascript • linux • mac • .NET</center>
   <center>public speaking • RSpec</center>
