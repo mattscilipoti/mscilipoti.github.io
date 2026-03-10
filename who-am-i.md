@@ -37,7 +37,7 @@ I test. First.
 I am agile and pragmatic.    
 I add to production capacity, for everyone.
 
-I am a perfectly, imperfect human.     
+I am a perfectly imperfect human.     
 I can do it alone, but you really want me as a member of a team.     
 I excel in a team, gaining energy from working with others.    
 I tend to work harder for those around me, than I do for myself.    

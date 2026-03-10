@@ -1,5 +1,5 @@
 ---
-title: "I pair program because I am a perfectly, imperfect human"
+title: "I pair program because I am a perfectly imperfect human"
 date: 2015-04-29
 author: "Matt Scilipoti"
 categories: [XP, Pair Programming, Feedback, Respect, Simplicity]
@@ -9,7 +9,7 @@ My name is Matt Scilipoti and If I'm not pairing, I'm distracted.  Hands down, t
 
  I am amazing. I have flaws. I embrace them both. My strengths are weaknesses and visa-versa. My ADD comes part and parcel with a hyper-focus state that many of my non-ADD friends are jealous of. 
 
-> I am a perfectly, imperfect human.      
+> I am a perfectly imperfect human.      
 > I suspect that you are too.   	
 
 ## The Main Reason: Focus
@@ -47,7 +47,7 @@ Do we need to say more here? You've felt it. Lost. Alone. The task is too big. T
 
 To consistently and deliberately perform the most important task at hand is no small feat. Not only does this require a consistent level of focus, which I have only seen achieved when one is within flow, but we also must ensure that the current work actually is the most import thing we should be doing, right now. This requires frequent introspection, lively debate, regular bouts of creativity, and the ability to create and maintain that flow. 
 
-> I am a perfectly, imperfect human.     
+> I am a perfectly imperfect human.     
 > I am not fully self-supportive.      
 > I vow to support my team, if they will let me.     
 > I hope they return that kindness. 
